@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Cucumber" width="26px" src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://avatars0.githubusercontent.com/u/983927?s=200&v=4" />
 <img align="left" alt="JavaFX" width="26px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />
+<img align="left" alt="Extent report" width="26px" src="http://extentreports.com/wp-content/uploads/2018/09/Extent_logomark_transparentbg.png" />
 <img align="left" alt="Appium" width="26px" src="https://png2.cleanpng.com/sh/a114dbaa51ea08a795faebb62f9229ca/L0KzQYm3V8E3N5Rsi5H0aYP2gLBuTfFxeJp6hZ99ZYP3PbL8lP9uaaVuh9C2c3BphMjokvUufJZ4jNt3Zz32db3sjvl2dV5uhAU2bHBqf368gsRlPJVoSKQBN3G1Q3AAU8cxO2I5SaMAM0G6SYOBU8IyPWg7RuJ3Zx==/kisspng-appium-test-automation-software-testing-selenium-ios-logo-5b4d4dc0267a23.7370314115317928321576.png" />
